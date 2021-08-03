@@ -15,3 +15,10 @@ def inclusive_range(*args):
         yield i
         i += step
 if __name__ == '__main__':main()
+
+print("/\\/\\/\\")
+print('\\\\')
+#raw string print
+print(r'Hello \n nishchay')
+#printing emoji replace + with 000 at prefix with \
+print('\U0001F603')
