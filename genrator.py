@@ -12,6 +12,6 @@ def inclusive_range(*args):
     stop=args[0]
     i=start
     while i <= stop:
-        return i
+        yield i
         i += step
 if __name__ == '__main__':main()
