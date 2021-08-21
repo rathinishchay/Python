@@ -1,0 +1,19 @@
+Lambda expression :
+
+Syntax -
+    lambda a , b : a+b
+
+Lambda expression in  anonymous function
+
+example :
+def add(a,b):
+    print(a+b)
+
+add2 = lambda a, b : a+b
+mul = lambda a,b : a*b
+print(add) add
+print(add2) lambda
+print(mul)  lambda
+
+#Lambda function are use with built in function map ,reduce , filter
+

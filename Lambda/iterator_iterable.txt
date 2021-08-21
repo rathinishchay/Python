@@ -1,0 +1,11 @@
+Iterator VS Iterable :
+
+List ,tuple ,string are iterables
+
+How for loop work for iterable in python ?
+
+Step 1 : Called iter function on iterable object which convert this iterable object to iterator.
+num_iterator = iter(numbers) ----> iterator
+
+Step-2 : On this iterator object next function is called to get values.
+next(num_iterator)
