@@ -2,7 +2,7 @@ import mysql.connector
 
 config = {
     'user':'demouser',
-    'password':'9766116097Nbr@',
+    'password':'1234567890Nbr@',
     'host':'dns1.nishchay.com',
     'database':'school'
 }
